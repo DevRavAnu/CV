@@ -1,0 +1,26 @@
+  body{
+    background-color: seashell;
+  }
+
+  hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: Grey;
+  border-width: 5px;
+  width: 5%;
+  }
+
+  h1{
+    color: #66BFBF;
+    cursor: zoom-in;
+  }
+
+  h2{
+    color: #66BFBF;
+    cursor: grab;
+    }
+
+  h3{
+    color: #66BFBF;
+    cursor: grab;
+    }
